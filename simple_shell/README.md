@@ -1,6 +1,5 @@
 # Simple_shell :wrench:
 
-![img](https://i.stack.imgur.com/dRKaU.gif)
 
 ---
 
@@ -78,7 +77,7 @@ $`
 ## Files
 
 ### README.md
-README file for project simple shell at Holberton School
+README file for project simple shell at ALX School
 
 ### man_1_simple_shell
 man page for simple shell project
