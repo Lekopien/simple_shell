@@ -92,8 +92,7 @@ Program that runs simple shell included contain helper functions and built-ins
 
 ### AUTHORS
 Contributors and authors for this project
-* *Esteban De La Hoz* - Initial work - [Esteban1891](https://github.com/Esteban1891/simple_shell)
-* *Jose Vallejo* - Initial work
+*Lekopien and Hugh
 
 ### LICENSE
 This project is licensed under the GPL License - see the [GPL 2.0](https://opensource.org/licenses/GPL-2.0) file for details
